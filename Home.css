@@ -9,16 +9,16 @@
   display: flex;
   z-index: 1;
   justify-content: center;
-  margin-left: 5px;
+  margin-left: 6px;
   margin-right: 5px;
 }
 
 .home_image {
   width: 100%;
-  margin-top: 100;
+  margin-top: 120;
 
   z-index: -1;
-  margin-bottom: -250px;
+  margin-bottom: -280px;
   mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
 }
 
